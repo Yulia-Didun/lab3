@@ -1,0 +1,37 @@
+p{
+    margin-left: 40px;
+}
+button {
+  border: none;
+  color: white;
+  padding: 14px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button_1 {
+   background-color: white; 
+   color: black; 
+   border: 2px solid #4CAF50;
+   margin-right: 30px;
+ }
+ 
+ .button_1:hover {
+   background-color: #4CAF50;
+   color: white;
+ }
+
+ .button_2 {
+   background-color: white; 
+   color: black; 
+   border: 2px solid #b92222;
+ }
+ 
+ .button_2:hover {
+   background-color: #b92222;
+   color: white;
+ }
